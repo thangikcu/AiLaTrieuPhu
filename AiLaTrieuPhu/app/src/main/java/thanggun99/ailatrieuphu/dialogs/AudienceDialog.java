@@ -29,7 +29,7 @@ public class AudienceDialog extends Dialog {
     private Random random;
     private Handler handler;
     private Runnable runnable;
-    private int i = 1, max;
+    private int i = 0, max;
     private String pst;
 
     public AudienceDialog(Context context) {
@@ -80,7 +80,7 @@ public class AudienceDialog extends Dialog {
             public void run() {
                 i += 2;
                 layoutParams.height = i;
-                pst = (i / max) * 100 + "%";
+                pst = (int)(((float)i / max) * 100) + "%";
 
                 barVote[indexTrue].setLayoutParams(layoutParams);
                 present[indexTrue].setText(pst);
@@ -105,9 +105,9 @@ public class AudienceDialog extends Dialog {
                 else {
                     int pst1, pst2, pst3, pst4;
 
-                    pst1 = (values.get(0) / max) * 100;
-                    pst2 = (values.get(1) / max) * 100;
-                    pst3 = (values.get(2) / max) * 100;
+                    pst1 = (int) (((float)values.get(0) / max) * 100);
+                    pst2 = (int) (((float)values.get(1) / max) * 100);
+                    pst3 = (int) (((float)values.get(2) / max) * 100);
                     pst4 = 100 - (pst3 + pst1 + pst2);
 
                     present[indexTrue].setText(pst1 + "%");
