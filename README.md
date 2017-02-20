@@ -1,4 +1,4 @@
-# **[Video giới thiệu](https://www.youtube.com/embed/zPQnaCMr_Xs)**
+# **[Video giới thiệu](https://youtu.be/zPQnaCMr_Xs)**
 
 ![6cd185.jpg](http://s2.upanh123.com/2017/02/20/6cd185.jpg)
 ![213255.jpg](http://s2.upanh123.com/2017/02/20/213255.jpg)
