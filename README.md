@@ -1,9 +1,6 @@
 # **[Video giới thiệu](https://youtu.be/zPQnaCMr_Xs)**
-
-![6cd185.jpg](http://s2.upanh123.com/2017/02/20/6cd185.jpg)
-![213255.jpg](http://s2.upanh123.com/2017/02/20/213255.jpg)
-![1ebf17.jpg](http://s2.upanh123.com/2017/02/20/1ebf17.jpg)
-![3fbae7.jpg](http://s2.upanh123.com/2017/02/20/3fbae7.jpg)
-![4a50ca.jpg](http://s2.upanh123.com/2017/02/20/4a50ca.jpg)
-![5d6800.jpg](http://s2.upanh123.com/2017/02/20/5d6800.jpg)
-![](https://image.ibb.co/fjB3qR/IMG_0057.jpg)
+![](https://image.ibb.co/bKrkRb/Screenshot_2017_12_31_15_35_03_388_thanggun99_ailatrieuphu.png)
+![](https://image.ibb.co/jPitCG/Screenshot_2017_12_31_15_36_07_477_thanggun99_ailatrieuphu.png)
+![](https://image.ibb.co/fsZN6b/Screenshot_2017_12_31_15_35_29_995_thanggun99_ailatrieuphu.png)
+![](https://image.ibb.co/hN2yew/Screenshot_2017_12_31_15_35_06_810_thanggun99_ailatrieuphu.png)
+![](https://image.ibb.co/kuoRXG/Screenshot_2017_12_31_15_39_55_880_thanggun99_ailatrieuphu.png)
